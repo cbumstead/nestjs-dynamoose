@@ -1,6 +1,6 @@
 {
   "name": "cbumstead-nestjs-dynamoose",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Nest - modern, fast, powerful node.js web framework (@dynamoose)",
   "author": "Hardys",
   "repository": "https://github.com/cbumstead/nestjs-dynamoose",
